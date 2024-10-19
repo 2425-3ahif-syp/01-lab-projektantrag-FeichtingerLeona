@@ -1,4 +1,28 @@
-= Index page
-ifndef::imagesdir[:imagesdir: images]
+Feichtinger Leona 3AHIF
 
-image::img.png[]
+= Projektantrag Testmanager
+
+=== Projektbeschreibung
+
+Das Projekt "Testmanager" soll eine Anwendung werden, die Schüler einer Klasse ermöglicht, Tests, Schularbeiten, Mitarbeitskontrollen und Hausübungen in einen Kalender einzutragen.
+Zusätzlich können zu Tests und Schularbeiten der Stoff und Mitschriften von Klassenkameraden hinzugefügt werden.
+Eine Woche oder ein paar Tage vor dem bevorstehenden Ereignis erhält jede Schüler eine Mitteilung, dass z. B. ein Test ansteht.
+
+
+=== Projektnutzen
+Diese App soll es Schülern erleichtern einen überblick über ihne anstehenden Termine zu behalten und für diese sich vorzubereiten.
+Dadurch kann verhindert werden, dass sich jemand einen falschen Termin notiert und unvorbereitet den Test schreiben muss oder die Abgabe eines Projekts/Hausaufgabe übersieht.
+
+
+=== Risiken für die User
+Es könnte ein Termin falsch eingetragen werden und wenn sich die komplette Klasse auf diesen Kalender verlässt, kann das zu Problemen für alle kommen.
+Eine Lösung dafür währe jedoch, dass ein termin von insgesamt 3 Leuten bestätigt werden, um dieses Problem zu vermeiden.
+
+=== Benutzeroberfläche
+Auf der Startseite soll ein Kalender zu sehen sein, in dem alle eingetragenen Termine zu sehen sind.
+Es soll auch möglich sein, die Termine in einer Liste anzusehen, die nach Art des Ereignisses oder nach Wochen/Monaten gefiltert werden kann.
+ede Art von Ereignis erhält zur besseren Übersichtlichkeit eine eigene Farbe, z. B. Rot für Tests, Blau für Schularbeiten und Grün für Hausaufgaben.
+
+=== Ressourcen
+Die Kosten des Projekts setzen sich aus den Gebühren für einen Clouddienst und die eines Webservers zusammen.
+Die Gesamtkosten werden bei ca. 800 € liegen.
